@@ -1,4 +1,4 @@
-# WAKILIN ASKA - Pi Network Marketplace dApp
+#LATCINTL - Pi Network Marketplace dApp
 
 A complete, production-ready Pi Network marketplace dApp for selling fabrics, textiles, and clothing for men, women, children, and adults.
 
